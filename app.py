@@ -5,7 +5,7 @@ from PyPDF2 import PdfReader
 from openai import ChatCompletion
 
 # Initialize the OpenAI API with your API key
-ChatCompletion.api_key = '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'
+ChatCompletion.api_key = 'OpenAI API Key'
 
 st.markdown("""
 # 📝 AI-Powered Cover Letter Generator
